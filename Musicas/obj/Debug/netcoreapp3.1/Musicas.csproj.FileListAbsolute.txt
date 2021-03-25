@@ -1,0 +1,13 @@
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\bin\Debug\netcoreapp3.1\Musicas.exe
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\bin\Debug\netcoreapp3.1\Musicas.deps.json
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\bin\Debug\netcoreapp3.1\Musicas.runtimeconfig.json
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\bin\Debug\netcoreapp3.1\Musicas.runtimeconfig.dev.json
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\bin\Debug\netcoreapp3.1\Musicas.dll
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\bin\Debug\netcoreapp3.1\Musicas.pdb
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\obj\Debug\netcoreapp3.1\Musicas.csprojAssemblyReference.cache
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\obj\Debug\netcoreapp3.1\Musicas.AssemblyInfoInputs.cache
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\obj\Debug\netcoreapp3.1\Musicas.AssemblyInfo.cs
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\obj\Debug\netcoreapp3.1\Musicas.csproj.CoreCompileInputs.cache
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\obj\Debug\netcoreapp3.1\Musicas.dll
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\obj\Debug\netcoreapp3.1\Musicas.pdb
+C:\Users\1988p\OneDrive\Área de Trabalho\programação\c#\ProgrmasConcluidos\Musicas\Musicas\obj\Debug\netcoreapp3.1\Musicas.genruntimeconfig.cache
